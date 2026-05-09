@@ -4,7 +4,7 @@ go 1.25.1
 
 require (
 	github.com/charmbracelet/lipgloss v1.1.0
-	github.com/connordoman/cadence v0.0.1
+	github.com/connordoman/cadence v0.0.2
 	github.com/connordoman/windy v1.0.0
 	github.com/ergochat/readline v0.1.3
 	github.com/spf13/cobra v1.10.2
